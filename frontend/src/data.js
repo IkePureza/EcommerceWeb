@@ -60,7 +60,6 @@ const data = {
       numReviews: 4,
       description: "high quality product",
     },
-    ,
     {
       _id: "6",
       name: "Adidas Slim Pants",
