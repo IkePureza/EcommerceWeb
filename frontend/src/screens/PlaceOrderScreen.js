@@ -126,7 +126,7 @@ export default function PlaceOrderScreen(props) {
               <li>
                 <button
                   type="button"
-                  onCLick={placeOrderHandler}
+                  onClick={placeOrderHandler}
                   disabled={cart.cartItems.length === 0}
                   className="primary block"
                 >
