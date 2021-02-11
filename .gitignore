@@ -26,3 +26,4 @@ package-lock.json
 frontend/.eslintcache
 
 .env
+frontend/package-lock.json
